@@ -1,2 +1,3 @@
 mysql:latest
 nginx
+mysql:8.0
