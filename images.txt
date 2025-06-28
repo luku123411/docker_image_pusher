@@ -1,3 +1,11 @@
 mysql:latest
 nginx
 mysql:8.0
+ubuntu
+python
+httpd
+hello-word
+php
+centos
+tomcat
+
