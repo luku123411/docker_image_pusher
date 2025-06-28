@@ -8,6 +8,5 @@ hello-world
 php
 centos:centos8.4.2105
 tomcat
-java
 node
 memcached
