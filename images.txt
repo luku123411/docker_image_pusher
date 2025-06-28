@@ -6,6 +6,8 @@ python
 httpd
 hello-world
 php
-centos
+centos:centos8.4.2105
 tomcat
-
+java
+node
+memcached
