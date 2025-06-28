@@ -4,7 +4,7 @@ mysql:8.0
 ubuntu
 python
 httpd
-hello-word
+hello-world
 php
 centos
 tomcat
