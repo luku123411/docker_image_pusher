@@ -1,12 +1,1 @@
-mysql:latest
-nginx
-mysql:8.0
-ubuntu
-python
-httpd
-hello-world
-php
-centos:centos8.4.2105
-tomcat
 node
-memcached
