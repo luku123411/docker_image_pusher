@@ -1,2 +1,1 @@
-ubuntu:25.10
---platform linux/arm64 
+--platform linux/arm64 ubuntu:25.10
