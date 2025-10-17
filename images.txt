@@ -1,1 +1,2 @@
-node
+ubuntu:25.10
+--platform linux/arm64 
